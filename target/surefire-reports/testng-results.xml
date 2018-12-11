@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GAZT Test Suite" duration-ms="4705" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:34Z">
+    <groups>
+    </groups>
+    <test name="GAZT Functional API Test Suite" duration-ms="4705" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:34Z">
+      <class name="com.api.Webservices.Test.TC02getListOfResources">
+        <test-method status="PASS" signature="TC_02_getListOfResources()[pri:0, instance:com.api.Webservices.Test.TC02getListOfResources@35f983a6]" name="TC_02_getListOfResources" duration-ms="690" started-at="2018-12-11T17:43:31Z" finished-at="2018-12-11T17:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_getListOfResources -->
+      </class> <!-- com.api.Webservices.Test.TC02getListOfResources -->
+      <class name="com.api.Webservices.Test.TC04getSingleResourceNotFound">
+        <test-method status="PASS" signature="TC_04_getSingleResourceNotFound()[pri:0, instance:com.api.Webservices.Test.TC04getSingleResourceNotFound@edf4efb]" name="TC_04_getSingleResourceNotFound" duration-ms="669" started-at="2018-12-11T17:43:33Z" finished-at="2018-12-11T17:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_getSingleResourceNotFound -->
+      </class> <!-- com.api.Webservices.Test.TC04getSingleResourceNotFound -->
+      <class name="com.api.Webservices.Test.TC01getSingleUserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.Webservices.Test.TC01getSingleUserTest@60f82f98]" name="setUp" is-config="true" duration-ms="21" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.Webservices.Test.TC02getListOfResources@35f983a6]" name="setUp" is-config="true" duration-ms="1" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.Webservices.Test.TC03getSingleResource@7f690630]" name="setUp" is-config="true" duration-ms="1" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.Webservices.Test.TC04getSingleResourceNotFound@edf4efb]" name="setUp" is-config="true" duration-ms="1" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.api.Webservices.Test.TC05postCreateNewUser@2f7a2457]" name="setUp" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC_01_getSingleUserTest()[pri:0, instance:com.api.Webservices.Test.TC01getSingleUserTest@60f82f98]" name="TC_01_getSingleUserTest" duration-ms="1901" started-at="2018-12-11T17:43:29Z" finished-at="2018-12-11T17:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_getSingleUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.Webservices.Test.TC01getSingleUserTest@60f82f98]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:34Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.Webservices.Test.TC04getSingleResourceNotFound@edf4efb]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:34Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.Webservices.Test.TC05postCreateNewUser@2f7a2457]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:34Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.Webservices.Test.TC02getListOfResources@35f983a6]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:34Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.Webservices.Test.TC03getSingleResource@7f690630]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-12-11T17:43:34Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.api.Webservices.Test.TC01getSingleUserTest -->
+      <class name="com.api.Webservices.Test.TC03getSingleResource">
+        <test-method status="PASS" signature="TC_03_getSingleResource()[pri:0, instance:com.api.Webservices.Test.TC03getSingleResource@7f690630]" name="TC_03_getSingleResource" duration-ms="737" started-at="2018-12-11T17:43:32Z" finished-at="2018-12-11T17:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_getSingleResource -->
+      </class> <!-- com.api.Webservices.Test.TC03getSingleResource -->
+      <class name="com.api.Webservices.Test.TC05postCreateNewUser">
+        <test-method status="PASS" signature="TC_05_postCreateNewUser()[pri:0, instance:com.api.Webservices.Test.TC05postCreateNewUser@2f7a2457]" name="TC_05_postCreateNewUser" duration-ms="645" started-at="2018-12-11T17:43:33Z" finished-at="2018-12-11T17:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_postCreateNewUser -->
+      </class> <!-- com.api.Webservices.Test.TC05postCreateNewUser -->
+    </test> <!-- GAZT Functional API Test Suite -->
+  </suite> <!-- GAZT Test Suite -->
+</testng-results>
